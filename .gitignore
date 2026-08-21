@@ -1,0 +1,10 @@
+bin/
+obj/
+*.user
+.vs/
+
+*.PublishSettings
+*.pubxml
+*.pubxml.user
+
+vendor/
