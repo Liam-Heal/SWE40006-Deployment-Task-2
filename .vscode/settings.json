@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/9a54d9e7-0877-4af6-a367-5dd13679dcfa/resourceGroups/appsvc_windows_australiaeast/providers/Microsoft.Web/sites/liamheal-passlevelapp",
+    "appService.deploySubpath": "PassLevelApp\\bin\\Release\\net10.0\\publish"
+}
